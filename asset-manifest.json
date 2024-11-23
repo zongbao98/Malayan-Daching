@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/malayan-daching/static/css/main.8819f46e.css",
+    "main.js": "/malayan-daching/static/js/main.30667573.js",
+    "static/js/453.945a9b3e.chunk.js": "/malayan-daching/static/js/453.945a9b3e.chunk.js",
+    "static/media/slider3.jpg": "/malayan-daching/static/media/slider3.e53f845d7cfe41163285.jpg",
+    "static/media/slider2.jpg": "/malayan-daching/static/media/slider2.46c98293a6d4ff0b37a8.jpg",
+    "static/media/background.jpg": "/malayan-daching/static/media/background.22028ad1b4672bbe1a00.jpg",
+    "static/media/slider1.jpg": "/malayan-daching/static/media/slider1.b6b10fd31c72c666729a.jpg",
+    "static/media/slider4.jpg": "/malayan-daching/static/media/slider4.0386b9cab886a0514867.jpg",
+    "static/media/corebox_1.jpg": "/malayan-daching/static/media/corebox_1.ee15e114ed5c62c5048e.jpg",
+    "static/media/corebox_6.jpg": "/malayan-daching/static/media/corebox_6.f6274fe8cee58edf6e1d.jpg",
+    "static/media/corebox_8.jpg": "/malayan-daching/static/media/corebox_8.d7f17828b9fd2557b910.jpg",
+    "static/media/corebox_7.jpg": "/malayan-daching/static/media/corebox_7.facf7b77697ad58377ee.jpg",
+    "static/media/corebox_5.jpg": "/malayan-daching/static/media/corebox_5.503d1db84b614d4e9082.jpg",
+    "static/media/corebox_4.jpg": "/malayan-daching/static/media/corebox_4.13dc73113cae4814a9f2.jpg",
+    "static/media/corebox_2.jpg": "/malayan-daching/static/media/corebox_2.fa835372210230fe8d8e.jpg",
+    "static/media/mdc-logo.png": "/malayan-daching/static/media/mdc-logo.2c38bcde3daaf56a237c.png",
+    "static/media/corebox_3.jpg": "/malayan-daching/static/media/corebox_3.3f91243768043cdbd667.jpg",
+    "index.html": "/malayan-daching/index.html",
+    "main.8819f46e.css.map": "/malayan-daching/static/css/main.8819f46e.css.map",
+    "main.30667573.js.map": "/malayan-daching/static/js/main.30667573.js.map",
+    "453.945a9b3e.chunk.js.map": "/malayan-daching/static/js/453.945a9b3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8819f46e.css",
+    "static/js/main.30667573.js"
+  ]
+}
