@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fe1a411.css",
-    "main.js": "/static/js/main.b507d047.js",
-    "static/js/453.945a9b3e.chunk.js": "/static/js/453.945a9b3e.chunk.js",
-    "static/media/slider3.jpg": "/static/media/slider3.e53f845d7cfe41163285.jpg",
-    "static/media/slider2.jpg": "/static/media/slider2.46c98293a6d4ff0b37a8.jpg",
-    "static/media/background.jpg": "/static/media/background.22028ad1b4672bbe1a00.jpg",
-    "static/media/slider1.jpg": "/static/media/slider1.b6b10fd31c72c666729a.jpg",
-    "static/media/slider4.jpg": "/static/media/slider4.0386b9cab886a0514867.jpg",
-    "static/media/corebox_1.jpg": "/static/media/corebox_1.ee15e114ed5c62c5048e.jpg",
-    "static/media/corebox_6.jpg": "/static/media/corebox_6.f6274fe8cee58edf6e1d.jpg",
-    "static/media/corebox_8.jpg": "/static/media/corebox_8.d7f17828b9fd2557b910.jpg",
-    "static/media/corebox_7.jpg": "/static/media/corebox_7.facf7b77697ad58377ee.jpg",
-    "static/media/corebox_5.jpg": "/static/media/corebox_5.503d1db84b614d4e9082.jpg",
-    "static/media/corebox_4.jpg": "/static/media/corebox_4.13dc73113cae4814a9f2.jpg",
-    "static/media/corebox_2.jpg": "/static/media/corebox_2.fa835372210230fe8d8e.jpg",
-    "static/media/mdc-logo.png": "/static/media/mdc-logo.2c38bcde3daaf56a237c.png",
-    "static/media/corebox_3.jpg": "/static/media/corebox_3.3f91243768043cdbd667.jpg",
-    "index.html": "/index.html",
-    "main.7fe1a411.css.map": "/static/css/main.7fe1a411.css.map",
-    "main.b507d047.js.map": "/static/js/main.b507d047.js.map",
-    "453.945a9b3e.chunk.js.map": "/static/js/453.945a9b3e.chunk.js.map"
+    "main.css": "/Malayan-Daching/static/css/main.2a3cfbef.css",
+    "main.js": "/Malayan-Daching/static/js/main.73e14a4b.js",
+    "static/js/453.945a9b3e.chunk.js": "/Malayan-Daching/static/js/453.945a9b3e.chunk.js",
+    "static/media/slider3.jpg": "/Malayan-Daching/static/media/slider3.e53f845d7cfe41163285.jpg",
+    "static/media/slider2.jpg": "/Malayan-Daching/static/media/slider2.46c98293a6d4ff0b37a8.jpg",
+    "static/media/background.jpg": "/Malayan-Daching/static/media/background.22028ad1b4672bbe1a00.jpg",
+    "static/media/slider1.jpg": "/Malayan-Daching/static/media/slider1.b6b10fd31c72c666729a.jpg",
+    "static/media/slider4.jpg": "/Malayan-Daching/static/media/slider4.0386b9cab886a0514867.jpg",
+    "static/media/corebox_1.jpg": "/Malayan-Daching/static/media/corebox_1.ee15e114ed5c62c5048e.jpg",
+    "static/media/corebox_6.jpg": "/Malayan-Daching/static/media/corebox_6.f6274fe8cee58edf6e1d.jpg",
+    "static/media/corebox_8.jpg": "/Malayan-Daching/static/media/corebox_8.d7f17828b9fd2557b910.jpg",
+    "static/media/corebox_7.jpg": "/Malayan-Daching/static/media/corebox_7.facf7b77697ad58377ee.jpg",
+    "static/media/corebox_5.jpg": "/Malayan-Daching/static/media/corebox_5.503d1db84b614d4e9082.jpg",
+    "static/media/corebox_4.jpg": "/Malayan-Daching/static/media/corebox_4.13dc73113cae4814a9f2.jpg",
+    "static/media/corebox_2.jpg": "/Malayan-Daching/static/media/corebox_2.fa835372210230fe8d8e.jpg",
+    "static/media/mdc-logo.png": "/Malayan-Daching/static/media/mdc-logo.2c38bcde3daaf56a237c.png",
+    "static/media/corebox_3.jpg": "/Malayan-Daching/static/media/corebox_3.3f91243768043cdbd667.jpg",
+    "index.html": "/Malayan-Daching/index.html",
+    "main.2a3cfbef.css.map": "/Malayan-Daching/static/css/main.2a3cfbef.css.map",
+    "main.73e14a4b.js.map": "/Malayan-Daching/static/js/main.73e14a4b.js.map",
+    "453.945a9b3e.chunk.js.map": "/Malayan-Daching/static/js/453.945a9b3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fe1a411.css",
-    "static/js/main.b507d047.js"
+    "static/css/main.2a3cfbef.css",
+    "static/js/main.73e14a4b.js"
   ]
 }
